@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MUPPANENIMANYA
-- 👀 I’m interested in learning things
+- 👀 I’m interested in programming
 - 🌱 I’m currently:BCA Student at KLUniversity
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me on email at muppanenimanya
